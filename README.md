@@ -1,7 +1,8 @@
 <h1 align=center>Landing Page - Curso de idiomas</h1>
-<img scr="https://github.com/gisleneandradee/LandingPage/assets/143434256/87ce52c2-b990-4b94-b944-6b2f0b701d29"/>
 
-<h2>Índice</h2>
+![Print-Site](https://github.com/gisleneandradee/LandingPage/assets/143434256/8ea1a86c-ba45-42e9-bec1-908d691ab5f9)
+
+# Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -18,7 +19,7 @@
 &#x2705 Finalizado! &#x2705
 
 <h2>Acesso ao Projeto</h2>
-<p>Link.com</p>
+<p>gisleneandradee.github.io/LandingPage/</p>
 
 <h2>Tecnologias utilizadas</h2>
 <div>
@@ -27,4 +28,4 @@
 </div>
 
 <h2>Licença</h2>
-<p>...</p>
+<p>Licenciado pelo MIT. A documentação é licenciada pelo Creative Commons.</p>
