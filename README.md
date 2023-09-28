@@ -19,7 +19,7 @@
 &#x2705 Finalizado! &#x2705
 
 <h2>Acesso ao Projeto</h2>
-<p>gisleneandradee.github.io/LandingPage/</p>
+<a>gisleneandradee.github.io/LandingPage/</a>
 
 <h2>Tecnologias utilizadas</h2>
 <div>
